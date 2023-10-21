@@ -4,4 +4,4 @@ Story link :  https://drive.google.com/file/d/1qumQhegDDLCo4zat0CBABRIVEm-CZII4/
 
 Dashboard link :  https://drive.google.com/file/d/1qkiKaD0xVvX8MEj_x9-c4xU7QdoC3BEr/view?usp=drivesdk
 
-Demonstration video link : https://drive.google.com/file/d/1r3qzCj3y3sgPVKU3YnTfTTY5vGhNy36A/view/?usp=drivesk
+Demonstration video link : https://drive.google.com/file/d/1r3qzCj3y3sgPVKU3YnTfTTY5vGhNy36A/view?usp=drivesk
